@@ -1,14 +1,4 @@
-Welcome to your Appcelerator Titanium Mobile Project
+#Integrate Admob with Appcelerator Titanium 
+##How to create a simple Titamium mobile application with AdMob integration.
 
-This is a single window application with a single view - a mostly blank canvas. Requires Titanium Mobile SDK 1.8.0+
-
-----------------------------------
-Stuff our legal folk make us say:
-
-Appcelerator, Appcelerator Titanium and associated marks and logos are 
-trademarks of Appcelerator, Inc. 
-
-Titanium is Copyright (c) 2009-2013 by Appcelerator, Inc. All Rights Reserved.
-
-Titanium is licensed under the Apache Public License (Version 2). Please
-see the LICENSE file for the full license.
+This tutorial demonstrates how to integrate the AdMob service with your Titanium Mobile Application. Specifically, the demo project will show you how to create a simple mobile app and display AdMob ads there.
